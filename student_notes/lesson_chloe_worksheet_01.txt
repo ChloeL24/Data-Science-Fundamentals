@@ -1,0 +1,1 @@
+It would take me 5 flips to start doubting the fairness of the coin. This is because the probability of getting heads is 0.5, and getting heads 5 times is 0.1. The probability is low enough to cause skepticism.
